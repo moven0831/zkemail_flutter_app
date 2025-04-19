@@ -1,0 +1,36 @@
+PODS:
+  - Flutter (1.0.0)
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - zkemail_flutter_package (0.1.0):
+    - Flutter
+    - ZKEmailSwift (~> 0.2.6)
+  - ZKEmailSwift (0.2.6)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - zkemail_flutter_package (from `.symlinks/plugins/zkemail_flutter_package/ios`)
+
+SPEC REPOS:
+  trunk:
+    - ZKEmailSwift
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  zkemail_flutter_package:
+    :path: ".symlinks/plugins/zkemail_flutter_package/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  path_provider_foundation: 2b6b4c569c0fb62ec74538f866245ac84301af46
+  zkemail_flutter_package: 1f135cf8c58240f6e4bb9de592bfb56610fb5eb3
+  ZKEmailSwift: e770350eb9ec843026acd08f70b77d02946be7d1
+
+PODFILE CHECKSUM: a6411145d99e3e9e1d23e4729ee9b5c75f35946b
+
+COCOAPODS: 1.16.2
