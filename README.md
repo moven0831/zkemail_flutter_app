@@ -61,3 +61,27 @@ Follow these steps to set up the project locally:
     *   Select a physical iOS device from the target device list.
     *   **Alternatively, for Apple Silicon Macs:** Select "My Mac (Designed for iPad)" as the target.
     *   Click the **Run** button (▶) to build and launch the app.
+
+## Preview
+
+Here are some screenshots of the application running on different platforms:
+
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="assets/img/ios_zkemail_app.png" target="_blank" rel="noopener noreferrer">
+        <img src="assets/img/ios_zkemail_app.png" alt="iOS zkEmail App Example" width="300"/>
+      </a>
+      <br />
+      <sub><b>iOS</b></sub>
+    </td>
+    <td align="center">
+      <a href="assets/img/android_zkemail_app.png" target="_blank" rel="noopener noreferrer">
+        <img src="assets/img/android_zkemail_app.png" alt="Android zkEmail App Example" width="300"/>
+      </a>
+      <br />
+      <sub><b>Android</b></sub>
+    </td>
+  </tr>
+</table>
